@@ -1,0 +1,3 @@
+Welcome, {{ task.poster.first_name }}!
+
+Your task {{task.title}} has been successfully created!

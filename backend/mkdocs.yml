@@ -1,0 +1,25 @@
+site_name: Apples and Oranges
+pages:
+  - Home: index.md
+  - General rules about API: general.md
+  - Resources: resources.md
+  - Authentication: auth.md
+  - Tasks:
+    - Categories: categories.md
+    - Languages: languages.md
+    - Tasks: tasks.md
+    - Users: users.md
+    - Earnings: earnings.md
+  - Payments:
+    - Conception: payments_conception.md
+    - Statuses: payments_statuses.md
+    - API: payments_api.md
+    - Testing: payments_testing.md
+    - Mobile: payments_mobile.md
+  - Push notifications: pns.md
+  - Errors: errors.md
+  - Media: media.md
+  - Time zones: timezones.md
+  - Changelog: changelog.md
+theme: readthedocs
+site_dir: docs_build

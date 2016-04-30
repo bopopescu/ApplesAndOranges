@@ -1,0 +1,3 @@
+{% load i18n %}{% autoescape off %}
+{% blocktrans %}Apples and Oranges - Verify Account{% endblocktrans %}
+{% endautoescape %}
