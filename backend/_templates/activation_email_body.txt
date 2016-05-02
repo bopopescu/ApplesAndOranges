@@ -1,0 +1,14 @@
+{% load i18n %}{% autoescape off %}
+
+{% trans "Hello Apples and Oranges Customer," %}
+
+{% trans "Please click the link below to verify your account:" %}
+{% block reset_link %}
+{{ protocol }}://{{ domain }}/{{ url }}
+{% endblock %}
+
+{% trans "Thanks," %}
+
+{% blocktrans %}The {{ site_name }} team{% endblocktrans %}
+
+{% endautoescape %}
