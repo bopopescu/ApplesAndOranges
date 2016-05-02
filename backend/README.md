@@ -18,9 +18,9 @@ for user in User.objects.all():
 
 ## Contributors
 * Patrick Zhang, patdujour@gmail.com
-* Xueguang Lv, 
+* Xueguang Lu, xueguang.lu@gmail.com
 * Ran Liu,
 * Yuan Xie,
 
 ## License
-Patrick Zhang, Xueguang Lv, Ran Liu, Yuan Xie
+Patrick Zhang, Xueguang Lu, Ran Liu, Yuan Xie
